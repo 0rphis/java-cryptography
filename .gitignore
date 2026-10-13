@@ -1,0 +1,16 @@
+# Banco de dados local
+/data/
+
+# Arquivos gerados pelo Maven
+target/
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.iml
+
+# Arquivos do macOS
+.DS_Store
+
+# Arquivos de log e informacoes importantes
+src/main/resources/application.properties
